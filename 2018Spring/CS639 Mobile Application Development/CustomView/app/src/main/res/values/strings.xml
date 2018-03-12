@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CustomView</string>
+
+    <string name="number_zero">0</string>
+    <string name="colon">:</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+</resources>
